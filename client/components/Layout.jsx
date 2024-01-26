@@ -13,10 +13,10 @@ export default function Layout() {
           
       <div class="topnav">
         <a href="/">Home</a>
-        <a href="/about">About Me</a>
-        <a href="/services">Services</a>  
-        <a href="/project">Project</a>
-        <a href="/contact" class="split">Contact ME</a>
+        <a href="about">About Me</a>
+        <a href="services">Services</a>  
+        <a href="project">Project</a>
+        <a href="contact" class="split">Contact ME</a>
       </div>
       <hr />      
       </header>
